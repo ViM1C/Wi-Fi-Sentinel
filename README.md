@@ -45,8 +45,9 @@ Future enhancements could include **data logging, signal mapping, or security al
 ---
 
 ## 📸 Demo  
+  
+![Wi-Fi Sentinel Demo](https://raw.githubusercontent.com/ViM1C/Wi-Fi_Sentinel/main/1000003953.jpg)
 
-![Wi-Fi Sentinel Demo](https://raw.githubusercontent.com/ViM1C/Wi-Fi_Sentinel/main/assets/demo.jpg)
 
 
   
